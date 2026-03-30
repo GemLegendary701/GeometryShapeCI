@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\boris\\Desktop\\\u043E\u043A\u043F\u043E\u043D\\GeometryApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC254B08-98C4-4DAA-8B76-5DCC5DEA79ED}|GeometryAppTests\\GeometryAppTests.csproj|c:\\users\\boris\\desktop\\\u043E\u043A\u043F\u043E\u043D\\geometryapp\\geometryapptests\\rectangletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC254B08-98C4-4DAA-8B76-5DCC5DEA79ED}|GeometryAppTests\\GeometryAppTests.csproj|solutionrelative:geometryapptests\\rectangletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B144D821-E3C8-4FE5-AD46-27488F607BA6}|GeometryApp\\GeometryApp.csproj|c:\\users\\boris\\desktop\\\u043E\u043A\u043F\u043E\u043D\\geometryapp\\geometryapp\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B144D821-E3C8-4FE5-AD46-27488F607BA6}|GeometryApp\\GeometryApp.csproj|solutionrelative:geometryapp\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B144D821-E3C8-4FE5-AD46-27488F607BA6}|GeometryApp\\GeometryApp.csproj|c:\\users\\boris\\desktop\\\u043E\u043A\u043F\u043E\u043D\\geometryapp\\geometryapp\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B144D821-E3C8-4FE5-AD46-27488F607BA6}|GeometryApp\\GeometryApp.csproj|solutionrelative:geometryapp\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B144D821-E3C8-4FE5-AD46-27488F607BA6}|GeometryApp\\GeometryApp.csproj|c:\\users\\boris\\desktop\\\u043E\u043A\u043F\u043E\u043D\\geometryapp\\geometryapp\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B144D821-E3C8-4FE5-AD46-27488F607BA6}|GeometryApp\\GeometryApp.csproj|solutionrelative:geometryapp\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RectangleTests.cs",
+              "DocumentMoniker": "C:\\Users\\boris\\Desktop\\\u043E\u043A\u043F\u043E\u043D\\GeometryApp\\GeometryAppTests\\RectangleTests.cs",
+              "RelativeDocumentMoniker": "GeometryAppTests\\RectangleTests.cs",
+              "ToolTip": "C:\\Users\\boris\\Desktop\\\u043E\u043A\u043F\u043E\u043D\\GeometryApp\\GeometryAppTests\\RectangleTests.cs",
+              "RelativeToolTip": "GeometryAppTests\\RectangleTests.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T12:06:37.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\boris\\Desktop\\\u043E\u043A\u043F\u043E\u043D\\GeometryApp\\GeometryApp\\Triangle.cs",
+              "RelativeDocumentMoniker": "GeometryApp\\Triangle.cs",
+              "ToolTip": "C:\\Users\\boris\\Desktop\\\u043E\u043A\u043F\u043E\u043D\\GeometryApp\\GeometryApp\\Triangle.cs",
+              "RelativeToolTip": "GeometryApp\\Triangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T11:58:37.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\boris\\Desktop\\\u043E\u043A\u043F\u043E\u043D\\GeometryApp\\GeometryApp\\Rectangle.cs",
+              "RelativeDocumentMoniker": "GeometryApp\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\boris\\Desktop\\\u043E\u043A\u043F\u043E\u043D\\GeometryApp\\GeometryApp\\Rectangle.cs",
+              "RelativeToolTip": "GeometryApp\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T11:57:48.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\boris\\Desktop\\\u043E\u043A\u043F\u043E\u043D\\GeometryApp\\GeometryApp\\Shape.cs",
+              "RelativeDocumentMoniker": "GeometryApp\\Shape.cs",
+              "ToolTip": "C:\\Users\\boris\\Desktop\\\u043E\u043A\u043F\u043E\u043D\\GeometryApp\\GeometryApp\\Shape.cs",
+              "RelativeToolTip": "GeometryApp\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T11:56:37.509Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

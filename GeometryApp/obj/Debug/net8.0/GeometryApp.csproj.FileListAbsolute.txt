@@ -1,0 +1,11 @@
+C:\Users\boris\Desktop\окпон\GeometryApp\GeometryApp\bin\Debug\net8.0\GeometryApp.deps.json
+C:\Users\boris\Desktop\окпон\GeometryApp\GeometryApp\bin\Debug\net8.0\GeometryApp.dll
+C:\Users\boris\Desktop\окпон\GeometryApp\GeometryApp\bin\Debug\net8.0\GeometryApp.pdb
+C:\Users\boris\Desktop\окпон\GeometryApp\GeometryApp\obj\Debug\net8.0\GeometryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boris\Desktop\окпон\GeometryApp\GeometryApp\obj\Debug\net8.0\GeometryApp.AssemblyInfoInputs.cache
+C:\Users\boris\Desktop\окпон\GeometryApp\GeometryApp\obj\Debug\net8.0\GeometryApp.AssemblyInfo.cs
+C:\Users\boris\Desktop\окпон\GeometryApp\GeometryApp\obj\Debug\net8.0\GeometryApp.csproj.CoreCompileInputs.cache
+C:\Users\boris\Desktop\окпон\GeometryApp\GeometryApp\obj\Debug\net8.0\GeometryApp.dll
+C:\Users\boris\Desktop\окпон\GeometryApp\GeometryApp\obj\Debug\net8.0\refint\GeometryApp.dll
+C:\Users\boris\Desktop\окпон\GeometryApp\GeometryApp\obj\Debug\net8.0\GeometryApp.pdb
+C:\Users\boris\Desktop\окпон\GeometryApp\GeometryApp\obj\Debug\net8.0\ref\GeometryApp.dll
