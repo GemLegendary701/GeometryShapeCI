@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\boris\\Desktop\\\u043E\u043A\u043F\u043E\u043D\\GeometryApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B144D821-E3C8-4FE5-AD46-27488F607BA6}|GeometryApp\\GeometryApp.csproj|c:\\users\\boris\\desktop\\\u043E\u043A\u043F\u043E\u043D\\geometryapp\\geometryapp\\.github\\workflows\\ci.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B144D821-E3C8-4FE5-AD46-27488F607BA6}|GeometryApp\\GeometryApp.csproj|solutionrelative:geometryapp\\.github\\workflows\\ci.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AC254B08-98C4-4DAA-8B76-5DCC5DEA79ED}|GeometryAppTests\\GeometryAppTests.csproj|c:\\users\\boris\\desktop\\\u043E\u043A\u043F\u043E\u043D\\geometryapp\\geometryapptests\\rectangletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC254B08-98C4-4DAA-8B76-5DCC5DEA79ED}|GeometryAppTests\\GeometryAppTests.csproj|solutionrelative:geometryapptests\\rectangletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,19 +39,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ci.yml",
+              "DocumentMoniker": "C:\\Users\\boris\\Desktop\\\u043E\u043A\u043F\u043E\u043D\\GeometryApp\\GeometryApp\\.github\\workflows\\ci.yml",
+              "RelativeDocumentMoniker": "GeometryApp\\.github\\workflows\\ci.yml",
+              "ToolTip": "C:\\Users\\boris\\Desktop\\\u043E\u043A\u043F\u043E\u043D\\GeometryApp\\GeometryApp\\.github\\workflows\\ci.yml",
+              "RelativeToolTip": "GeometryApp\\.github\\workflows\\ci.yml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-03-30T12:46:15.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "RectangleTests.cs",
               "DocumentMoniker": "C:\\Users\\boris\\Desktop\\\u043E\u043A\u043F\u043E\u043D\\GeometryApp\\GeometryAppTests\\RectangleTests.cs",
               "RelativeDocumentMoniker": "GeometryAppTests\\RectangleTests.cs",
               "ToolTip": "C:\\Users\\boris\\Desktop\\\u043E\u043A\u043F\u043E\u043D\\GeometryApp\\GeometryAppTests\\RectangleTests.cs",
               "RelativeToolTip": "GeometryAppTests\\RectangleTests.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBMAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwB4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-30T12:06:37.675Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Triangle.cs",
               "DocumentMoniker": "C:\\Users\\boris\\Desktop\\\u043E\u043A\u043F\u043E\u043D\\GeometryApp\\GeometryApp\\Triangle.cs",
               "RelativeDocumentMoniker": "GeometryApp\\Triangle.cs",
@@ -55,12 +72,11 @@
               "RelativeToolTip": "GeometryApp\\Triangle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T11:58:37.912Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-30T11:58:37.912Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Rectangle.cs",
               "DocumentMoniker": "C:\\Users\\boris\\Desktop\\\u043E\u043A\u043F\u043E\u043D\\GeometryApp\\GeometryApp\\Rectangle.cs",
               "RelativeDocumentMoniker": "GeometryApp\\Rectangle.cs",
@@ -68,12 +84,11 @@
               "RelativeToolTip": "GeometryApp\\Rectangle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T11:57:48.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-30T11:57:48.288Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Shape.cs",
               "DocumentMoniker": "C:\\Users\\boris\\Desktop\\\u043E\u043A\u043F\u043E\u043D\\GeometryApp\\GeometryApp\\Shape.cs",
               "RelativeDocumentMoniker": "GeometryApp\\Shape.cs",
@@ -81,8 +96,7 @@
               "RelativeToolTip": "GeometryApp\\Shape.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T11:56:37.509Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-30T11:56:37.509Z"
             }
           ]
         }
