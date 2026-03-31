@@ -40,6 +40,6 @@ public class TriangleTests
     public void Test_That_Will_Fail()
     {
         var triangle = new Triangle(3, 4, 5);
-        Assert.Equal(100, triangle.Area());
+        Assert.Equal(6, triangle.Area());
     }
 }
